@@ -15,6 +15,8 @@ Soy estudiante de Ingeniería Civil Informática en la PUCV y fundador de Maxor.
 
 **[Hilo](https://github.com/ivanmaxor/Hilo-App)**: gestor de sesiones de Claude Code para Windows (Electron, xterm.js, node-pty). Código abierto, con actualizaciones automáticas y firmadas.
 
+**[Calypso](https://github.com/ivanmaxor/Calypso-GM)**: bullet hell con progreso tipo Survivor!.io, hecho en Godot 4. Arte por código, humor gamer y un guía chatarrero.
+
 ---
 
 ### Tecnologías y Herramientas
