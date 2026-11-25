@@ -11,6 +11,12 @@ Soy estudiante de Ingeniería Civil Informática en la PUCV y fundador de Maxor.
 
 ---
 
+### Proyectos
+
+**[Hilo](https://github.com/ivanmaxor/Hilo-App)**: gestor de sesiones de Claude Code para Windows (Electron, xterm.js, node-pty). Código abierto, con actualizaciones automáticas y firmadas.
+
+---
+
 ### Tecnologías y Herramientas
 
 <p align="center">
